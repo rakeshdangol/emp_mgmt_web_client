@@ -1,0 +1,20 @@
+{
+  "name": "emp_mgmt_web_client",
+  "version": "1.0.0",
+  "description": "Employee management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "we",
+    "client",
+    "html",
+    "css"
+  ],
+  "author": "rakesh123dangol@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
